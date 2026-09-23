@@ -6,4 +6,5 @@ int main() {
     int a = 10000;
     int kg = a / 1000;
     cout << kg << endl;
+    return 0;
 }
